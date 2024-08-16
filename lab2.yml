@@ -12,6 +12,6 @@ spec:
       ports:
         - containerPort: 3306
     - name: flask-app
-      image: taeahmed/simple flask app:latest
+      image: taeahmed/simple_flask_app:latest
       ports:
         - containerPort: 5000
